@@ -426,13 +426,15 @@ dl.faq dt {
 .online {
 	background-image: url("./en/icon_user_online.gif");
 	background-position: 0 100%;
+	background-size: 5px;
 	background-repeat: repeat-y;
 }
 
 .offline {
 	background-image: url("./en/icon_user_offline.gif");
-    background-position: 0 100%;
-    background-repeat: repeat-y;
+        background-position: 0 100%;
+	background-size: 5px;
+        background-repeat: repeat-y;
 }
 
 /* BB Code styles

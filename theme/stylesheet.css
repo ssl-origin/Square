@@ -93,6 +93,8 @@ a:hover { color: #0084C4; }
 .wrap {
 	background-color: #FFF;
 	border-color: #E6E9ED;
+	border-radius: 15px;
+	box-shadow: 0 0 5px 2px #9D9A93, inset 0 3px 18px rgba(100, 100, 100, .25);
 }
 
 .headerbar {

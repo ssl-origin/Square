@@ -101,7 +101,7 @@ a:hover { color: #0084C4; }
 	color: #FFFFFF;
 }
 
-.headerbar, .forumbg {
+.headerbar {
 	background-color: #0084C4;
 	background-image: -webkit-linear-gradient(top, #003F5E 0%, #005C8A 2px, #0084C4 92px, #0084C4 100%);
 	background-image: linear-gradient(to bottom, #003F5E 0%,#005C8A 2px,#0084C4 92px,#0084C4 100%);
@@ -109,7 +109,7 @@ a:hover { color: #0084C4; }
 	border: 1px solid #4f91b6;
 }
 
-.forabg {
+.forabg, .forumbg {
 	background-color: #0084C4;
 	background-image: -webkit-linear-gradient(top, #003F5E 0%, #005C8A 2px, #0084C4 92px, #0084C4 100%);
 	background-image: linear-gradient(to bottom, #003F5E 0%,#005C8A 2px,#0084C4 92px,#0084C4 100%);
